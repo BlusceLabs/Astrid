@@ -1,0 +1,47 @@
+{
+  "plugins": {
+    "menu": {
+      "menu_header": "╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮\n║ ◉— *𝐀𝐬𝐭𝐫𝐢𝐝 - 𝐁𝐨𝐭* —◉\n║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║\n║➤ *Hello,* @username\n║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║\n║➤ *Owner:* @author\n║➤ *Number:* wa.me/@owner\n║➤ *PayPal:* paypal.me/hoodDevs\n║➤ *Date:* @week, @date\n║➤ *Uptime:* @uptime\n║➤ *Users:* @rtotal\n║➤ *Registered:* @rtotalreg\n╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯",
+      "user_info": "┏━━━━━━━━━━━━━━━━┓\n┃ *< USER INFO />*\n┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃\n┣ ✯ *Level:* @level\n┣ ✯ *Experience:* @exp\n┣ ✯ *Rank:* @role\n┣ ✯ *Diamonds:* @limit\n┣ ✯ *AstridCoins:* @money\n┣ ✯ *Tokens:* @joincount\n┣ ✯ *Premium:* @premium\n┗━━━━━━━━━━━━━━━━┛\n",
+      "section_header": "┏━━━━━━━━━━━━━━━━┓\n┃ @category\n┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃",
+      "command_item": "┣ ඬ⃟  □ @cmd @islimit",
+      "section_footer": "┗━━━━━━━━━━━━━━━━┛\n",
+      "error_message": "[ ❌ ] An error occurred while generating the menu:",
+      "premium": {
+        "yes": "✅",
+        "no": "❌"
+      },
+      "tags": {
+        "info": "<INFORMATION>",
+        "jadibot": "<SUBBOTS>",
+        "xp": "<XP>",
+        "tools": "<TOOLS>",
+        "search": "<SEARCHES>",
+        "downloader": "<DOWNLOADS>",
+        "converter": "<CONVERTERS>",
+        "effects": "<EFFECTS>",
+        "game": "<GAMES>",
+        "group": "<GROUPS>",
+        "nsfw": "<ADULT>",
+        "owner": "<OWNERS>",
+        "sticker": "<STICKERS>",
+        "img": "<IMAGES>",
+        "ai": "<ARTIFICIAL INTELLIGENCE>",
+        "music": "<MUSIC>",
+        "internet": "<INTERNET>",
+        "download": "<DOWNLOAD>",
+        "tyc": "<TERMS AND CONDITIONS>",
+        "maker": "<CREATOR>",
+        "nulis": "<WRITE>",
+        "emoji": "<EMOJI>",
+        "database": "<DATABASE>",
+        "premium": "<PREMIUM>",
+        "random": "<RANDOM>",
+        "anime": "<ANIME>",
+        "fun": "<FUN>",
+        "general": "<GENERAL>",
+        "herramientas": "<TOOLS>"
+      }
+    }
+  }
+}
